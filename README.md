@@ -47,7 +47,7 @@ xyz
 
 ## W.I.P
 
- - [ ] Create an online page
+ - [x] Create an online page
  - [x] Create a README
  - [x] Halfway mark
  - [ ] Completed project mark
