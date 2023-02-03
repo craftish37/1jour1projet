@@ -1,0 +1,6 @@
+Ce protocol est à appliquer sur la session de chaque utilisateur
+
+- Copier le dossier Instance dans un milieu neutre
+- Déplacer les dossiers présents dans Instance vers le répertoire C:\Users\NOM D'UTILISATEUR À REMPLACER\AppData\Roaming\cura\{Version de Cura}
+- Remplacer les fichiers s'ils sont déjà présents
+- Lancer Cura

@@ -1,0 +1,85 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"elements": [
+		{
+			"name": "Torso",
+			"from": [4, -6, 4],
+			"to": [12, 6, 8],
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 4, 6], "texture": "#missing"},
+				"east": {"uv": [0, 0, 2, 6], "texture": "#missing"},
+				"south": {"uv": [0, 0, 4, 6], "texture": "#missing"},
+				"west": {"uv": [0, 0, 2, 6], "texture": "#missing"},
+				"up": {"uv": [0, 0, 4, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 4, 2], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Left Arm",
+			"from": [0, -6, 4],
+			"to": [4, 6, 8],
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 2, 6], "texture": "#missing"},
+				"east": {"uv": [0, 0, 2, 6], "texture": "#missing"},
+				"south": {"uv": [0, 0, 2, 6], "texture": "#missing"},
+				"west": {"uv": [0, 0, 2, 6], "texture": "#missing"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Left Arm",
+			"from": [12, -6, 4],
+			"to": [16, 6, 8],
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 2, 6], "texture": "#missing"},
+				"east": {"uv": [0, 0, 2, 6], "texture": "#missing"},
+				"south": {"uv": [0, 0, 2, 6], "texture": "#missing"},
+				"west": {"uv": [0, 0, 2, 6], "texture": "#missing"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Head",
+			"from": [4, 6, 2],
+			"to": [12, 14, 10],
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#missing"},
+				"east": {"uv": [0, 0, 4, 4], "texture": "#missing"},
+				"south": {"uv": [0, 0, 4, 4], "texture": "#missing"},
+				"west": {"uv": [0, 0, 4, 4], "texture": "#missing"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#missing"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Cape",
+			"from": [3, -10, 8],
+			"to": [13, 6, 9],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [9, 6, 8.5]},
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 5, 8], "texture": "#missing"},
+				"east": {"uv": [0, 0, 0.5, 8], "texture": "#missing"},
+				"south": {"uv": [0, 0, 5, 8], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0.5, 8], "texture": "#missing"},
+				"up": {"uv": [0, 0, 5, 0.5], "texture": "#missing"},
+				"down": {"uv": [0, 0, 5, 0.5], "texture": "#missing"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Player",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}
