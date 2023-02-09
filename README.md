@@ -31,11 +31,11 @@ xyz
 |**8**|`01/25`|✅|
 |**9**|`01/26`|✅|
 |**10**|`01/27`|✅|
-|**11**|`01/30`|🔄|
-|**12**|`01/31`|🔄|
-|**13**|`02/01`|🔄|
-|**14**|`02/02`|🔄|
-|**15**|`02/03`|🔄|
+|**11**|`01/30`|✅|
+|**12**|`01/31`|✅|
+|**13**|`02/01`|✅|
+|**14**|`02/02`|✅|
+|**15**|`02/03`|✅|
 |**16**|`02/06`|🔄|
 |**17**|`02/07`|🔄|
 |**18**|`02/08`|🔄|
@@ -57,116 +57,33 @@ xyz
 
 ## Projects details
 
-<details>
-  <summary markdown="span">1 - Modèle-params</summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended. In the SolidPart, you will find a color code, each color defining a parameter to test.
-</details>
-
-<details>
-  <summary markdown="span">2 - Cache Clavier</summary>
-This project, while being pretty simple, is the reproduciton of my keyboard frame that I unfortunately damaged during the creation...
-</details>
-
-<details>
-  <summary markdown="span">3 - Bescherelle</summary>
-This model a complete Bescherelle (a French book recensing almost every way and rule to write in french) created for the dear BTS CPI - 1st year section. 100% printable with the files there, you just have to slice it with convenient parameters and glue the parts together.
-</details>
-
-<details>
-  <summary markdown="span">4 - Fonds de plans Eiffel</summary>
-During this project, my aim was to simplify the creation of blueprints on Solidworks for every section of the school. It has been achieved by integrating an auto-filling function in the title block, where you just need to double-click the region to fill simple infos about your creation.
-</details>
-
-<details>
-  <summary markdown="span">5 - Adventurer4 sur Cura</summary>
-This project is a document that can be used to install parameters of the Adventurer4 3D pinter on Cura on both a server and a single user.
-</details>
-
-<details>
-  <summary markdown="span">6 - Trophée Cosmetica</summary>
-See <a href=”https://github.com/craftish37/W.I.P“>6 - Cosmetica</a>
-</details>
-
-<details>
-  <summary markdown="span">7 - Support cartouches insuline</summary>
-This model has been created to be printed for my cousin, who has diabete. It is intented from the shape to be able to hold in a vertical position insulin doses while respecting the old model (the green body).
-</details>
-
-<details>
-  <summary markdown="span">8 - Étude de moulage</summary>
-This project is a work I "grabbed" from the BTS - 1st year section in order to work on my capabilities in creating molds for pieces.
-</details>
-
-<details>
-  <summary markdown="span">9 - Tour Eiffel</summary>
-This is the re-creation of an old project where we couldn't find the solidparts anymore, remaining graphical bodies only.
-</details>
-
-<details>
-  <summary markdown="span">10 - Porte bobine</summary>
-The objective of this project was to create a support for filament coils to avoid chaos while storing them. It was also needed to create blueprints of the pieces in order to ensure a production as soon as finished.
-</details>
-
-<details>
-  <summary markdown="span">11 - </summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended.
-</details>
-
-<details>
-  <summary markdown="span">12 - </summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended.
-</details>
-
-<details>
-  <summary markdown="span">13 - </summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended.
-</details>
-
-<details>
-  <summary markdown="span">14 - </summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended.
-</details>
-
-<details>
-  <summary markdown="span">15 - </summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended.
-</details>
-
-<details>
-  <summary markdown="span">16 - </summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended.
-</details>
-
-<details>
-  <summary markdown="span">17 - </summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended.
-</details>
-
-<details>
-  <summary markdown="span">18 - </summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended.
-</details>
-
-<details>
-  <summary markdown="span">19 - </summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended.
-</details>
-
-<details>
-  <summary markdown="span">20 - </summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended.
-</details>
-
-<details>
-  <summary markdown="span">xyz - </summary>
-The aim of this project was to create a solid reliable enough to judge if your 3D printer parameters are satisfying and work as intended.
-</details>
+- [01 - Modèle-params](https://github.com/craftish37/1jour1projet/tree/main/01%20-%20Mod%C3%A8le-params/)
+- [02 - Cache clavier](https://github.com/craftish37/1jour1projet/tree/main/02%20-%20Cache%20clavier/)
+- [03 - Bescherelle](https://github.com/craftish37/1jour1projet/tree/main/03%20-%20Bescherelle/)
+- [04 - Fonds de plans Eiffel](https://github.com/craftish37/1jour1projet/tree/main/04%20-%20Fonds%20de%20plans%20Eiffel/)
+- [05 - Adventurer4 sur Cura](https://github.com/craftish37/1jour1projet/tree/main/05%20-%20Adventurer4%20sur%20Cura)
+- [06 - Trophée Cosmetica](https://github.com/craftish37/1jour1projet/tree/main/06%20-%20Troph%C3%A9e%20Cosmetica)
+- [07 - Support cartouches insuline](https://github.com/craftish37/1jour1projet/tree/main/07%20-%20Support%20cartouches%20insuline)
+- [08 - Étude de moulage](https://github.com/craftish37/1jour1projet/tree/main/08%20-%20%C3%89tude%20de%20moulage)
+- [09 - Tour Eiffel](https://github.com/craftish37/1jour1projet/tree/main/09%20-%20Tour%20Eiffel)
+- [10 - Porte-Bobine](https://github.com/craftish37/1jour1projet/tree/main/10%20-%20Porte-Bobine)
+- [11 - Tasse à café](https://github.com/craftish37/1jour1projet/tree/main/11%20-%20Tasse%20%C3%A0%20caf%C3%A9/)
+- [12 - Matriochka](https://github.com/craftish37/1jour1projet/tree/main/12%20-%20Matriochka)
+- [13 - iPhone 8+](https://github.com/craftish37/1jour1projet/tree/main/13%20-%20iPhone%208%2B)
+- [14 - Möbius](https://github.com/craftish37/1jour1projet/tree/main/14%20-%20M%C3%B6bius/)
+- [15 - Page Projet](https://github.com/craftish37/1jour1projet/tree/main/15%20-%20Page%20Projet)
+- [16 - ]()
+- [17 - ]()
+- [18 - ]()
+- [19 - ]()
+- [20 - ]()
+- [xyz - ]()
 
 ---
 
 ## Thanks
 
-This project has been made possible thanks to **Cosmetica** and **Gustave Eiffel's Vocational School** where I'm actively studying
+This project has been made possible thanks to **[Cosmetica](https://cosmetica.cc/)** and **[Gustave Eiffel's Vocational School](https://www.lycee-eiffel-tours.eu/)** where I'm actively studying
 
 # ⚠ Work in progress under this line ⚠
 
