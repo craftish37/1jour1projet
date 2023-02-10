@@ -14,7 +14,7 @@ During this period, 20 projects have been finished, thanks to the use of differe
  - **[Solidworks](https://www.solidworks.com/)** for the main creation of shapes and designs
  - **[Ultimaker Cura](https://github.com/Ultimaker/Cura)** for the creation of files used for 3D printing
  - **[3D Builder](https://apps.microsoft.com/store/detail/3d-builder/9WZDNCRFJ3T6?)** for complements on the 3D printing parts
-xyz
+
 ---
 
 ## Progression
@@ -83,19 +83,4 @@ xyz
 
 ## Thanks
 
-This project has been made possible thanks to **[Cosmetica](https://cosmetica.cc/)** and **[Gustave Eiffel's Vocational School](https://www.lycee-eiffel-tours.eu/)** where I'm actively studying
-
-# ⚠ Work in progress under this line ⚠
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
+This project has been made possible thanks to **[Cosmetica](https://cosmetica.cc/)** and **[Gustave Eiffel's Vocational School](https://www.lycee-eiffel-tours.eu/)** where I'm actively studying.
