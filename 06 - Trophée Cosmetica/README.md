@@ -30,7 +30,7 @@ Most of the process has been made in advance, but the demand is now completed an
 
 ---
 
-# FR - QU'est-ce que Cosmetica ?
+# FR - Qu'est-ce que Cosmetica ?
 
 [Cosmetica](https://cosmetica.cc/) est un service d'hébergement de cosmétiques visant une diffusion et une création libre entre joueurs.
 
